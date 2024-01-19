@@ -25,7 +25,7 @@ forest methods.
     * recent_games.json
     * user.json
 
-* project_report.pdf  -> A deatiled report about the project and its outcomes
+* CS210_project_report.pdf  -> A deatiled report about the project and its outcomes
 
 # Tools Used
 * Jupyter Notebook
